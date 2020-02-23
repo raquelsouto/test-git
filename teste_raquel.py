@@ -1,0 +1,1 @@
+print('VOU DOMINAR O MUNDO!')
